@@ -1,0 +1,61 @@
+setRequestHandler 任务开始
+publish_article
+setRequestHandler 任务开始
+setRequestHandler 任务开始
+publish_article
+markdownFilePath = 
+setRequestHandler 任务开始
+setRequestHandler 任务开始
+publish_article
+markdownFilePath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\300ComfyUI视频扩图.md
+convertMdImagePaths
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916094648.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916094648.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916094648.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916094736.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916094736.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916094736.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916094755.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916094755.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916094755.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916095305.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916095305.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916095305.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916095918.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916095918.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916095918.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916100425.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916100425.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916100425.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916102607.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916102607.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916102607.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916102650.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916102650.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916102650.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916102750.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916102750.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916102750.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916102949.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916102949.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916102949.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103037.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103037.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916103037.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103219.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103219.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916103219.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103304.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103304.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916103304.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103532.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103532.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916103532.png
+08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103622.png
+inputPath = F:/obsidian/obsidian-data-master/08公众号教程/300ComfyUI视频扩图/Pasted%20image%2020250916103622.png
+newPath = F:\obsidian\obsidian-data-master\08公众号教程\300ComfyUI视频扩图\Pasted_image_20250916103622.png
+setRequestHandler 任务开始
+setRequestHandler 任务开始
+publish_article
+markdownFilePath = D:\script\work-sop\feishu-message.js
+convertMdImagePaths
